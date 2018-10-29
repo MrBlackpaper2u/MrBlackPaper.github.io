@@ -87,10 +87,15 @@
 </table><br>
 <h2>Bibliography</h2>
 https://www.islam-guide.com/ch3-16.htm
+  
 http://www.islam101.com/dawah/pillars.html
+  
 https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam
+  
 https://www.whyislam.org/islamicteachings/the-five-pillars-of-islam/
+
 https://www.allaboutreligion.org/five-pillars-of-islam-faq.htm
+
 https://www.britannica.com/topic/Pillars-of-Islam
 
 
