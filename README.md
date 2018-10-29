@@ -86,7 +86,7 @@
 </tr>
 </table><br>
 <h2>Bibliography</h2>
-https://www.islam-guide.com/ch3-16.htm
+https://www.islam-guide.com/ch3-16.htm<br>
   
 http://www.islam101.com/dawah/pillars.html
   
