@@ -22,7 +22,7 @@
 
 <h3>Shahada</h3>
 <p>Shahada: “La ilaha ill Allah, Muhammadur Rasool Allah.” The shahada is the testimony of faith to Allah. The meaning of the shahada is “There is no true god but Allah and Muhammad is his messenger. If you are a non-muslim and you want to convert to Islam all you have to do is say the shahada and believe that it’s true. To convert you also have to understand that god (Allah) has no partners or son. The Shahada is the most important part of converting to Islam and being a Muslim.</p>
-<img src=“Shahada.JPEG” alt=“Shahada” height=“100” width=“100”>
+<img src=“http://cdn.shopify.com/s/files/1/1278/9151/products/product-image-204529975_1024x1024.jpg?v=1513019886” alt=“Shahada” height=“100” width=“100”>
 
 <h3>Salah</h3>
 <p>Salah: Muslims have to perform five prayers a day. These prayers are when we are closest to God (Allah). During prayer, you must be facing Qibla which is the direction of the Kabaah. On Fridays, just after noon, you can pray salat al-Jum'ah where it is only two raquas and there is also a khutbah added with it.</p>
