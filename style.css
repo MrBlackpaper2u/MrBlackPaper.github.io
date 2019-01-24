@@ -1,0 +1,30 @@
+
+body {background-color: gray;}
+h1 {
+text-align:center;
+background-color:red !important;
+}
+img {
+    border-color:red;
+	align:center;
+	width:250px;
+	length:250px;
+}
+.backcolor{
+background-color:blue;
+}
+.tableheader{
+font-weight:bold;
+font-style:italic;
+background-color:red;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border-color:red;
+   border:2px solid #FF0000;
+}
+.footer{
+	font-size:12px;
+}
